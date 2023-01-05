@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @benszabo
-- 👀 I am proficient in programming languages like Java, Javascript, and C#.
-- 🌱 My field of Interest's are creating new  Web Applications and Products along with topics related to Artificial Intelligence, Machine Learning, and Data Science
+- 👀 A dedicated and skilled senior applications developer with a strong background in computer science, currently working at UPS. Proficient in a variety of programming languages and frameworks, including Spring Boot, Java, React, Javascript, Angular, and Node. Seeking to utilize my skills and experience to make a positive impact in a new role.
 - 📫 benjamin.c.szabo@gmail.com
 
 <!---
