@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @benszabo
-- 👀 A dedicated and skilled lead applications developer with a strong background in computer science. Proficient in a variety of programming languages and frameworks, including Spring Boot, Java, React, Javascript, Angular, and Node. Seeking to utilize my skills and experience to make a positive impact.
 - 📫 benjamin.c.szabo@gmail.com
 
 <!---
