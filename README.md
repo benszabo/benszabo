@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @benszabo
+- 👋 Hi, I’m @benszabo, most of my repos are private :D
 - 📫 benjamin.c.szabo@gmail.com
